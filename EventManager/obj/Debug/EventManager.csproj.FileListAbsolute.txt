@@ -1,0 +1,24 @@
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\obj\Debug\EventManager.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\obj\Debug\EventManager.Form1.resources
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\obj\Debug\EventManager.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\obj\Debug\EventManager.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\bin\Debug\EventManager.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\bin\Debug\EventManager.exe
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\bin\Debug\EventManager.pdb
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\bin\Debug\MySql.Data.dll
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\bin\Debug\MySql.Data.xml
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\obj\Debug\EventManager.exe
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\obj\Debug\EventManager.pdb
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\bin\Debug\EventManager.mdf
+C:\Users\user\documents\visual studio 2017\Projects\EventManager\EventManager\bin\Debug\EventManager_log.ldf
+C:\Users\user\Desktop\EventManager\EventManager\bin\Debug\EventManager.exe.config
+C:\Users\user\Desktop\EventManager\EventManager\bin\Debug\EventManager.exe
+C:\Users\user\Desktop\EventManager\EventManager\bin\Debug\EventManager.pdb
+C:\Users\user\Desktop\EventManager\EventManager\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\EventManager\EventManager\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\EventManager\EventManager\obj\Debug\EventManager.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\EventManager\EventManager\obj\Debug\EventManager.Form1.resources
+C:\Users\user\Desktop\EventManager\EventManager\obj\Debug\EventManager.Properties.Resources.resources
+C:\Users\user\Desktop\EventManager\EventManager\obj\Debug\EventManager.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\EventManager\EventManager\obj\Debug\EventManager.exe
+C:\Users\user\Desktop\EventManager\EventManager\obj\Debug\EventManager.pdb
