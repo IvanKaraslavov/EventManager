@@ -254,11 +254,7 @@ namespace EventManager
                     BindComboBox();
 
                     MaxRows = ds.Tables[0].Rows.Count;
-                    if (inc == 0)
-                    {
-                        inc = 0;
-                    }
-                    else
+                   if (inc != 0)
                     {
                         inc--;
                     }
